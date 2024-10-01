@@ -1,0 +1,3 @@
+../Src/led.c:4:6:ledinit	1
+../Src/led.c:14:6:ledon	1
+../Src/led.c:19:6:ledoff	1
