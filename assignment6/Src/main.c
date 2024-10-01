@@ -33,7 +33,7 @@ int main(void)
 	SystemInit();
 	ret = Lcd_Init();
 	if(ret) {
-		Lcd_Puts(LCD_LINE1, "Pushpak Zambare");
+		Lcd_Puts(LCD_LINE1, "SURAJ DAHAKE");
 		for(int i=0;i<16;i++)
 		{
 			 Lcd_Left_Shift();
